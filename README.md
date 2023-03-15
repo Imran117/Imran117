@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there :wave:, Umurzakov Imran
 
-<!--
-**Imran117/Imran117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gifs](https://media.giphy.com/media/tliXLSkzfq2C4/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm Imran from Uzbekistan. I am a young programmer and mentor actively developing along the way and like to code and drink coffee, in short I like to develop, see my new projects and subscribe
+
+### :crystal_ball: My hobbies
+
+* :computer:Programmer
+* :video_camera:Bloger 
+* :crossed_flags:Racing
+* :cyclone:Anime fan  
+
+### :dart: Skills and Experience
+- :white_medium_square: **HTML CSS Tailwind SCSS**
+- :white_medium_square: JavaScript, Vue
