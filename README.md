@@ -15,5 +15,7 @@ I'm Imran from Uzbekistan. I am a young programmer and mentor actively developin
 * :cyclone:Anime fan  
 
 ### :dart: Skills and Experience
-- :white_medium_square: **HTML CSS Tailwind SCSS**
-- :white_medium_square: JavaScript, Vue
+- ◻️ HTML CSS Tailwind SCSS
+- ◻️ JavaScript
+- ◻️ Vue.js / Vue-Router / VueX / Pinia  
+- ◻️ Nuxt / Webpack
